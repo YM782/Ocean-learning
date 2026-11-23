@@ -59,6 +59,37 @@ You do not need to understand every legal word before beginning. Learn the basic
 These are beginner course guides, not complete law-school textbooks.
 以上是初學者課程指南，並非完整的法學院教科書。
 
+## Constitutional law deep dive
+## 美國憲法深度學習
+
+The next step after the foundations is a six-week beginner course on constitutional structure and individual rights.
+完成基礎課程後，下一步是為期六週的憲法架構及個人權利入門課程。
+
+- [Constitutional law course](02-Constitutional-Law/README.md) — complete course index.
+  [美國憲法學課程](02-Constitutional-Law/README.md)——完整課程索引。
+- [Study map](02-Constitutional-Law/00-Study-Map.md) — six-week plan.
+  [學習地圖](02-Constitutional-Law/00-Study-Map.md)——六週學習計畫。
+- [Constitutional foundations](02-Constitutional-Law/01-Constitutional-Foundations.md).
+  [憲法基礎](02-Constitutional-Law/01-Constitutional-Foundations.md)。
+- [First Amendment: religion](02-Constitutional-Law/02-First-Amendment-Religion.md).
+  [第一修正案：宗教自由](02-Constitutional-Law/02-First-Amendment-Religion.md)。
+- [First Amendment: speech and press](02-Constitutional-Law/03-First-Amendment-Speech-and-Press.md).
+  [第一修正案：言論及新聞自由](02-Constitutional-Law/03-First-Amendment-Speech-and-Press.md)。
+- [Second Amendment](02-Constitutional-Law/04-Second-Amendment.md).
+  [第二修正案](02-Constitutional-Law/04-Second-Amendment.md)。
+- [Fourth Amendment](02-Constitutional-Law/05-Fourth-Amendment.md).
+  [第四修正案](02-Constitutional-Law/05-Fourth-Amendment.md)。
+- [Fifth Amendment](02-Constitutional-Law/06-Fifth-Amendment.md).
+  [第五修正案](02-Constitutional-Law/06-Fifth-Amendment.md)。
+- [Sixth Amendment](02-Constitutional-Law/07-Sixth-Amendment.md).
+  [第六修正案](02-Constitutional-Law/07-Sixth-Amendment.md)。
+- [Eighth Amendment](02-Constitutional-Law/08-Eighth-Amendment.md).
+  [第八修正案](02-Constitutional-Law/08-Eighth-Amendment.md)。
+- [Fourteenth Amendment](02-Constitutional-Law/09-Fourteenth-Amendment.md).
+  [第十四修正案](02-Constitutional-Law/09-Fourteenth-Amendment.md)。
+- [Case studies and exercises](02-Constitutional-Law/10-Case-Studies.md).
+  [判例分析及練習](02-Constitutional-Law/10-Case-Studies.md)。
+
 ## Landmark laws and Supreme Court cases
 ## 美國重要法律與最高法院判例
 

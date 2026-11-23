@@ -26,8 +26,10 @@ You do not need a law degree, legal work experience, or perfect English to begin
    在指引下閱讀一宗重要的最高法院判例。
 8. Study the landmark laws and cases in American history.
    學習美國歷史上影響深遠的法律及判例。
-9. Begin the 12 core law subjects only after the foundation lessons.
-   完成基礎課程後，再開始 12 門核心法律科目。
+9. Study the constitutional law deep-dive course.
+   學習美國憲法深度課程。
+10. Begin the remaining core law subjects after the foundations and constitutional introduction.
+   完成基礎及憲法入門課程後，再開始其他核心法律科目。
 
 ## Your first lessons
 ## 你的第一批課程
@@ -46,6 +48,8 @@ You do not need a law degree, legal work experience, or perfect English to begin
   [06 第一週練習題](06-First-Week-Exercises.md)。
 - [Landmark laws in American history](../13-Landmark-Laws-in-American-History/README.md).
   [美國歷史上影響深遠的法律](../13-Landmark-Laws-in-American-History/README.md)。
+- [Constitutional law — complete beginner course](../02-Constitutional-Law/README.md).
+  [憲法學——零基礎完整課程](../02-Constitutional-Law/README.md)。
 
 ## What each lesson gives you
 ## 每一課會提供什麼
