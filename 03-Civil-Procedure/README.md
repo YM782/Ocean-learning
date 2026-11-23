@@ -1,54 +1,43 @@
 # Civil Procedure
 # 民事訴訟法
 
-## What this course is about
-## 本課程內容
+**Level: beginner | Federal Rules of Civil Procedure as the main framework**
+**程度：初學者｜以《聯邦民事訴訟規則》作為主要架構**
 
-Begin after you understand civil cases and the basic structure of U.S. courts.
-先理解民事案件及美國法院的基本架構，再開始本課。
+Civil procedure is the set of rules that explains how a civil lawsuit moves through a court. It covers where a case may be filed, how the defendant is notified, what the parties must disclose, how disputes are decided, and how a judgment may be reviewed.
+民事訴訟法是一套規則，用來說明民事訴訟如何在法院中進行。它涵蓋案件可以在哪裡提出、如何通知被告、當事人必須披露什麼資料、爭議如何裁決，以及判決如何接受審查。
 
-This is an introductory course guide, not a complete textbook or legal opinion.
-本頁是入門課程指南，並非完整教科書或法律意見。
+This course uses federal procedure as the teaching model. State civil procedure can differ, and a federal rule should not be assumed to apply in state court.
+本課程以聯邦民事程序作為教學模型。各州民事程序可能不同，不應假設聯邦規則必然適用於州法院。
 
-## Start with three ideas
-## 從三個概念開始
+## Course map
+## 課程地圖
 
-### 1. Jurisdiction and venue
-### 1. 管轄權與審判地
+| File | Topic | 繁體中文 |
+|---|---|---|
+| 00-Civil-Lawsuit-Overview.md | The life cycle of a civil lawsuit | 民事訴訟的完整流程 |
+| 01-Jurisdiction-Venue-and-Service.md | Jurisdiction, venue, and service | 管轄權、審判地及送達 |
+| 02-Pleadings-Motions-and-Discovery.md | Pleadings, motions, and discovery | 訴狀、動議及證據開示 |
+| 03-Trial-Judgment-and-Appeal.md | Trial, judgment, and appeal | 審判、判決及上訴 |
+| 04-Case-Studies-and-Exercises.md | Landmark cases and practice | 重要判例及練習 |
 
-Learn when a court has authority to hear a dispute and where a case may be filed.
-學習法院何時具有審理爭議的權限，以及案件可以在哪裡提出。
+## Learning goals
+## 學習目標
 
-### 2. Pleadings and discovery
-### 2. 訴狀與證據開示
+- Explain the difference between subject-matter jurisdiction and personal jurisdiction.
+  解釋事項管轄權與對人管轄權的差異。
+- Understand the purpose of a complaint, answer, motion, and discovery.
+  理解起訴狀、答辯狀、動議及證據開示的用途。
+- Recognize the difference between a motion to dismiss and summary judgment.
+  辨識駁回動議與簡易判決動議的差異。
+- Describe the basic stages of a federal civil trial and appeal.
+  說明聯邦民事審判及上訴的基本階段。
 
-Learn how parties state claims and exchange information before trial.
-學習當事人如何提出請求，以及如何在審判前交換資訊。
+## Important scope warning
+## 重要範圍提醒
 
-### 3. Trial and appeal
-### 3. 審判與上訴
-
-Follow the stages of a civil case from filing through possible appellate review.
-了解民事案件從起訴到可能上訴審查的各個階段。
-
-
-## Beginner practice
-## 初學者練習
-
-Draw a simple flowchart showing how a civil case may move from complaint to trial and appeal.
-畫出簡單流程圖，展示民事案件如何從起訴狀進入審判及上訴。
-
-## How to continue
-## 如何繼續學習
-
-Study one topic at a time and write down unfamiliar terms.
-一次只學習一個主題，並記錄不熟悉的術語。
-
-For every case, identify the court, jurisdiction, date, issue, rule, holding, and reasoning.
-閱讀每一宗判例時，辨識法院、司法管轄區、日期、爭點、規則、裁判要旨及推理。
-
-Always verify the law that applies to the relevant jurisdiction and date.
-務必核實相關司法管轄區及日期所適用的法律。
+Federal civil procedure is not identical to state civil procedure. Rules, deadlines, local practices, and available remedies must be checked for the court handling the case.
+聯邦民事程序與州民事程序並不完全相同。必須依照實際審理案件的法院，核實規則、期限、當地實務及可用救濟。
 
 **Educational use only; not legal advice.**
 **僅供教育學習，不構成法律意見。**

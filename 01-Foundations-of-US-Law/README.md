@@ -1,54 +1,51 @@
 # Foundations of U.S. Law
 # 美國法律基礎
 
-## What this course is about
-## 本課程內容
+**Level: absolute beginner | English followed immediately by Traditional Chinese**
+**程度：完全零基礎｜每段英文後面立即附上繁體中文**
 
-Start here after completing the six beginner lessons. This course explains where U.S. law comes from and how legal authority works.
-完成六堂入門課程後，從本課開始。本課解釋美國法律的來源，以及法律權威如何運作。
+## What you will learn
+## 你將學到什麼
 
-This is an introductory course guide, not a complete textbook or legal opinion.
-本頁是入門課程指南，並非完整教科書或法律意見。
+This course explains where American law comes from, how legal rules relate to one another, how courts use precedent, and how to read a simple judicial opinion.
+本課程會解釋美國法律從何而來、不同法律規則如何互相配合、法院如何運用判例先例，以及如何閱讀一份簡單的司法判決。
 
-## Start with three ideas
-## 從三個概念開始
+You do not need to memorize legal vocabulary before starting. Learn the idea first, then learn the legal term used by lawyers and courts.
+開始時不需要先背誦法律詞彙。先理解概念，再學習律師及法院使用的法律術語。
 
-### 1. Sources of law
-### 1. 法律淵源
+## Course map
+## 課程地圖
 
-The main sources include the Constitution, statutes, regulations, and judicial decisions.
-主要法律來源包括憲法、制定法、行政規章及司法判決。
+| File | Topic | 繁體中文 |
+|---|---|---|
+| 00-Legal-System-and-Sources.md | The U.S. legal system and sources of law | 美國法律制度與法律淵源 |
+| 01-Common-Law-Precedent-and-Interpretation.md | Common law, precedent, and interpretation | 普通法、判例先例及法律解釋 |
+| 02-Reading-Cases-IRAC-and-Exercises.md | Read a case and reason like a lawyer | 閱讀判例及法律推理 |
 
-### 2. Common law
-### 2. 普通法
+## Core questions
+## 核心問題
 
-Common law develops through judicial decisions, subject to statutes and constitutional rules.
-普通法透過司法判決逐步發展，但仍受制定法及憲法規則限制。
+- What is the difference between the Constitution, a statute, a regulation, and a court decision?
+  憲法、制定法、行政規章及法院判決有什麼不同？
+- Why can one court's decision bind another court but merely persuade a different court?
+  為什麼某法院的判決可能拘束另一法院，卻只能說服其他法院？
+- How do federal law and state law interact?
+  聯邦法律與州法律如何互相配合？
+- How can a beginner identify the issue, rule, application, and conclusion in a case?
+  初學者如何在判例中找出爭點、規則、適用及結論？
 
-### 3. Precedent
-### 3. 判例先例
+## Suggested study order
+## 建議學習順序
 
-A prior decision may guide or bind a later court, depending on court hierarchy and jurisdiction.
-先前判決可能指引或拘束後來法院，取決於法院層級及司法管轄區。
+1. Read the course on the U.S. legal system and sources of law.
+   閱讀美國法律制度及法律淵源。
+2. Study precedent and statutory interpretation.
+   學習判例先例及制定法解釋。
+3. Read the short case exercise and write your own IRAC answer.
+   閱讀簡短判例練習，並自行撰寫 IRAC 答案。
 
-
-## Beginner practice
-## 初學者練習
-
-Explain the difference between a statute and a judicial opinion.
-解釋制定法與司法判決意見的差別。
-
-## How to continue
-## 如何繼續學習
-
-Study one topic at a time and write down unfamiliar terms.
-一次只學習一個主題，並記錄不熟悉的術語。
-
-For every case, identify the court, jurisdiction, date, issue, rule, holding, and reasoning.
-閱讀每一宗判例時，辨識法院、司法管轄區、日期、爭點、規則、裁判要旨及推理。
-
-Always verify the law that applies to the relevant jurisdiction and date.
-務必核實相關司法管轄區及日期所適用的法律。
+**Scope note:** This course introduces general U.S. legal concepts. Specific rules can differ between federal and state jurisdictions.
+**範圍說明：** 本課程介紹美國法律的一般概念。具體規則可能因聯邦及州的司法管轄區而不同。
 
 **Educational use only; not legal advice.**
 **僅供教育學習，不構成法律意見。**

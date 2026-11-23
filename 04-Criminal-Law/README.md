@@ -1,54 +1,20 @@
 # Criminal Law
 # 刑法
 
-## What this course is about
-## 本課程內容
+**Level: beginner | Focus: substantive criminal liability**
+**程度：初學者｜重點：刑事實體責任**
 
-Begin after the introductory lessons on civil and criminal cases and proof standards.
-先完成民事、刑事案件及證明標準的入門課，再開始本課。
+Criminal law defines offenses and the conditions under which a person may be punished. This course is about what conduct is a crime and what the prosecution must prove; criminal procedure is studied separately in Course 14.
+刑法界定犯罪，以及一個人可能受到刑罰的條件。本課程探討哪些行為構成犯罪，以及控方必須證明什麼；刑事程序則另於第14課學習。
 
-This is an introductory course guide, not a complete textbook or legal opinion.
-本頁是入門課程指南，並非完整教科書或法律意見。
+U.S. criminal law is not contained in one nationwide criminal code. Federal offenses are defined by federal statutes, while states have their own criminal codes and case law.
+美國刑法並不存在一部適用全國的單一刑法典。聯邦犯罪由聯邦制定法界定，各州則有自己的刑法典及相關判例。
 
-## Start with three ideas
-## 從三個概念開始
-
-### 1. Elements of a crime
-### 1. 犯罪構成要件
-
-Criminal liability depends on the elements defined by the applicable criminal law.
-刑事責任取決於適用刑法所界定的犯罪構成要件。
-
-### 2. Act and mental state
-### 2. 行為與主觀罪責
-
-Learn actus reus and mens rea through simple examples.
-透過簡單例子學習 actus reus（犯罪行為要件）及 mens rea（主觀罪責要件）。
-
-### 3. Defenses and proof
-### 3. 抗辯與證明
-
-Study basic defenses and the beyond-a-reasonable-doubt standard.
-學習基本抗辯及排除合理懷疑的證明標準。
-
-
-## Beginner practice
-## 初學者練習
-
-Explain why an accusation alone is not the same as proof of guilt.
-解釋為什麼單純的指控不等於已經證明有罪。
-
-## How to continue
-## 如何繼續學習
-
-Study one topic at a time and write down unfamiliar terms.
-一次只學習一個主題，並記錄不熟悉的術語。
-
-For every case, identify the court, jurisdiction, date, issue, rule, holding, and reasoning.
-閱讀每一宗判例時，辨識法院、司法管轄區、日期、爭點、規則、裁判要旨及推理。
-
-Always verify the law that applies to the relevant jurisdiction and date.
-務必核實相關司法管轄區及日期所適用的法律。
+| File | Topic | 繁體中文 |
+|---|---|---|
+| 00-Elements-of-a-Crime.md | Legality and elements of an offense | 罪刑法定及犯罪構成要件 |
+| 01-Mens-Rea-Causation-and-Defenses.md | Mental state, causation, and defenses | 主觀罪責、因果關係及抗辯 |
+| 02-Criminal-Law-Cases-and-Exercises.md | Cases and legal analysis | 判例及法律分析 |
 
 **Educational use only; not legal advice.**
 **僅供教育學習，不構成法律意見。**
