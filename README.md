@@ -27,6 +27,8 @@ You do not need to understand every legal word before beginning. Learn the basic
    [05 你的第一個判例：Marbury v. Madison](00-Start-Here/05-First-Case-Marbury-v-Madison.md)。
 7. [06 First-week exercises and answers](00-Start-Here/06-First-Week-Exercises.md).
    [06 第一週練習題與答案](00-Start-Here/06-First-Week-Exercises.md)。
+8. [Landmark laws in American history](13-Landmark-Laws-in-American-History/README.md) — learn the historical context and impact of major laws.
+   [美國歷史上影響深遠的法律](13-Landmark-Laws-in-American-History/README.md)——理解重要法律的歷史背景及影響。
 
 ## Study schedules
 ## 學習計畫
@@ -57,13 +59,29 @@ You do not need to understand every legal word before beginning. Learn the basic
 These are beginner course guides, not complete law-school textbooks.
 以上是初學者課程指南，並非完整的法學院教科書。
 
+## Landmark laws and Supreme Court cases
+## 美國重要法律與最高法院判例
+
+- [Landmark laws in American history](13-Landmark-Laws-in-American-History/README.md) — 23 major constitutional documents, amendments, and statutes explained for beginners.
+  [美國歷史上影響深遠的法律](13-Landmark-Laws-in-American-History/README.md)——以零基礎方式解說23項重要憲法文件、修正案及制定法。
+- [Landmark Supreme Court cases](13-Landmark-Laws-in-American-History/Landmark-Supreme-Court-Cases.md) — nine cases and their constitutional impact.
+  [最高法院重要判例](13-Landmark-Laws-in-American-History/Landmark-Supreme-Court-Cases.md)——九宗判例及其憲法影響。
+- [How U.S. law is made and read](13-Landmark-Laws-in-American-History/How-US-Law-Is-Made-and-Read.md) — bills, statutes, regulations, courts, and legal citations.
+  [美國法律如何制定及閱讀](13-Landmark-Laws-in-American-History/How-US-Law-Is-Made-and-Read.md)——法案、制定法、行政規章、法院及法律引證。
+- [Exercises and answer key](13-Landmark-Laws-in-American-History/Exercises-and-Answer-Key.md).
+  [練習題與答案](13-Landmark-Laws-in-American-History/Exercises-and-Answer-Key.md)。
+
 ## Learning tools
 ## 學習工具
 
 - [First 50 legal terms](glossary/Beginner-50-Legal-Terms.md).
   [最初 50 個法律術語](glossary/Beginner-50-Legal-Terms.md)。
+- [Landmark law glossary](glossary/Landmark-Law-Glossary.md).
+  [重要法律詞彙表](glossary/Landmark-Law-Glossary.md)。
 - [Official starting resources](resources/Official-Starting-Resources.md).
   [官方入門資源](resources/Official-Starting-Resources.md)。
+- [Primary sources for landmark laws](resources/Primary-Sources-for-Landmark-Laws.md).
+  [重要法律第一手資料來源](resources/Primary-Sources-for-Landmark-Laws.md)。
 - [Beginner case brief worksheet](templates/Beginner-Case-Brief.md).
   [初學者判例摘要工作表](templates/Beginner-Case-Brief.md)。
 - [IRAC worksheet](templates/IRAC-Worksheet.md).
