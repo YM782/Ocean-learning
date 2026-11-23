@@ -78,6 +78,18 @@ Federal constitutional rules and state laws may interact. The correct answer can
 A case summary is a learning aid. The court's actual opinion is the primary source for what the court decided.
 判例摘要只是學習輔助。法院實際判決意見才是核實法院裁決內容的第一手資料。
 
+## Scope and next topics
+## 課程範圍及後續主題
+
+This first deep-dive focuses on constitutional structure and selected amendments that are especially useful for understanding individual rights and criminal justice. It is not a complete treatment of every amendment or every area of constitutional litigation.
+本階段首先深入憲法架構，以及特別有助於理解個人權利與刑事司法的部分修正案。這並不是對所有修正案或所有憲法訴訟領域的完整研究。
+
+Future lessons can add the Third, Seventh, Ninth, Tenth, Eleventh, and other amendments, as well as Commerce Clause litigation, presidential powers, federal courts, and state constitutional protections.
+後續課程可以增加第三、第七、第九、第十、第十一及其他修正案，以及商業條款訴訟、總統權力、聯邦法院及州憲法保障等內容。
+
+**Content review date: November 23, 2026.** Legal rules may change after this date; verify current primary authority before relying on any rule.
+**內容核對日期：2026年11月23日。** 此日期之後法律規則可能改變；依賴任何規則前，請核實現行第一手法律資料。
+
 ## Primary sources and glossary
 ## 第一手資料及詞彙表
 

@@ -87,8 +87,10 @@ The next step after the foundations is a six-week beginner course on constitutio
   [第八修正案](02-Constitutional-Law/08-Eighth-Amendment.md)。
 - [Fourteenth Amendment](02-Constitutional-Law/09-Fourteenth-Amendment.md).
   [第十四修正案](02-Constitutional-Law/09-Fourteenth-Amendment.md)。
-- [Case studies and exercises](02-Constitutional-Law/10-Case-Studies.md).
-  [判例分析及練習](02-Constitutional-Law/10-Case-Studies.md)。
+- [Case studies](02-Constitutional-Law/10-Case-Studies.md).
+  [判例分析](02-Constitutional-Law/10-Case-Studies.md)。
+- [Exercises and answer key](02-Constitutional-Law/11-Exercises-and-Answer-Key.md).
+  [練習題及答案](02-Constitutional-Law/11-Exercises-and-Answer-Key.md)。
 
 ## Landmark laws and Supreme Court cases
 ## 美國重要法律與最高法院判例
